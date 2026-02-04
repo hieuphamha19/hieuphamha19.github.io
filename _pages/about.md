@@ -66,16 +66,17 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 # 💼 Experience
 
-- *2025.07 - Present*, **Research Assistant**, CVMAIL Lab, VinUniversity, Hanoi, Vietnam
-  - Co-supervised by Dr. Huy-Hieu Pham (VinUni) & Dr. Trung-Nghia Le (HCMUS)
-  - Developing semi-supervised semantic segmentation framework for histopathology images
-  - Tackling challenges of limited labeled data and data imbalance in medical imaging
+- *2025.07 - Present*, **Research Assistant**, CVMAIL Lab, VinUniversity, Hanoi
+  - Co-supervised by Asst. Prof. Huy-Hieu Pham (VinUni) & Dr. Trung-Nghia Le (HCMUS)
+  - Researched semi-supervised semantic segmentation frameworks for histopathology images
+  - Addressed challenges of limited labeled data and data imbalance in biomedical imaging
+  - Developed automated report generation systems for chest X-ray (CXR) images
 
 - *2024.06 - Present*, **Research Assistant**, AIMA Lab
-  - Supervised by M.Sc. Thanh Huy Nguyen (CMU)
-  - Researching semi-supervised and self-supervised learning methods for medical imaging
-  - Analyzing gene expression matrix data for PANCAN (Pan-Cancer) analysis
-  - Developing mediastinal tumor detection on chest MRI images (collaboration with University of Medicine and Pharmacy, HCMC)
+  - Supervised by M.Sc. Thanh Huy Nguyen (CMU), Asst. Prof. Min Xu (CMU), Assoc. Prof. Ulas Bagci (Northwestern Univ.)
+  - Developed semi-supervised and self-supervised learning methods for biomedical image analysis
+  - Worked with gene expression matrices for Pan-Cancer (PANCAN) analysis
+  - Developed mediastinal tumor detection methods on chest MRI (in collaboration with University of Medicine and Pharmacy, HCMC)
 
 - *2025.04 - 2025.06*, **Bioinformatics Intern**, Gene Solutions, Ho Chi Minh City
   - Developed predictive modeling based on fragmentomics extracted using NIPT to predict preeclampsia, preterm birth, and diabetes
