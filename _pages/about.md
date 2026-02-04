@@ -64,7 +64,7 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
   - CGPA: 3.83/4.0 (126/138 credits completed)
   - Relevant courses: Data Structure & Algorithm, Fundamentals of Artificial Intelligence, Machine Learning, Data Mining and Application, Natural Language Processing 
 
-# 💼 Research Experience
+# 💼 Experience
 
 - *2025.07 - Present*, **Research Assistant**, CVMAIL Lab, VinUniversity, Hanoi, Vietnam
   - Co-supervised by Dr. Huy-Hieu Pham (VinUni) & Dr. Trung-Nghia Le (HCMUS)
@@ -77,16 +77,15 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
   - Analyzing gene expression matrix data for PANCAN (Pan-Cancer) analysis
   - Developing mediastinal tumor detection on chest MRI images (collaboration with University of Medicine and Pharmacy, HCMC)
 
-- *2024.08 - 2025.03*, **Undergraduate Research Assistant**, AISIA Lab, Ho Chi Minh City
-  - Supervised by Assoc. Prof. Binh Nguyen (HCMUS)
-  - Developed breast cancer prediction model using mammogram images (collaboration with Thong Nhat Hospital)
-  - Exploring multimodal approaches in healthcare AI applications
-
-# 💻 Internships
 - *2025.04 - 2025.06*, **Bioinformatics Intern**, Gene Solutions, Ho Chi Minh City
   - Developed predictive modeling based on fragmentomics extracted using NIPT to predict preeclampsia, preterm birth, and diabetes
   - Applied graph neural networks to enhance fragmentomics-based modeling
   - Identified tissue-of-origin of Carcinoma of Unknown Primary (CUP) using RNA-seq-based transcriptomic profiling
+
+- *2024.08 - 2025.03*, **Undergraduate Research Assistant**, AISIA Lab, Ho Chi Minh City
+  - Supervised by Assoc. Prof. Binh Nguyen (HCMUS)
+  - Developed breast cancer prediction model using mammogram images (collaboration with Thong Nhat Hospital)
+  - Exploring multimodal approaches in healthcare AI applications
 
 # 🛠️ Technical Skills
 - **Programming Languages**: Python, C++, C, JavaScript, SQL
