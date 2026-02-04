@@ -26,9 +26,10 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Awarded Travel Grant and Student Volunteer Scholarship for AAAI 2026 Conference in Singapore!
-- *2025.10*: &nbsp;📝 Student Abstract accepted at AAAI-26 (Oral presentation). 
-- *2025.07*: &nbsp;📝 Paper accepted at MICCAI Workshop on Computational Pathology (COMPAYL 2025).
+- *2025.10*: &nbsp;📝 Student Abstract accepted at AAAI-26 Student Abstract and Poster Program (Oral presentation). 
 - *2025.08*: &nbsp;🏆 Achieved 5th Place at MICCAI STSR Challenge 2025 - CBCT teeth and root pulp canal segmentation.
+- *2025.07*: &nbsp;📝 Paper accepted at MICCAI Workshop on Computational Pathology (COMPAYL 2025).
+- *2025.04*: &nbsp;📝 Paper accepted at IEEE/CVF CVPR Workshop 2025
 - *2025.02*: &nbsp;📝 Paper accepted at IEEE ISBI 2025 - "Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation".
 - *2025.01*: &nbsp;🏆 Won 2nd Place at Fetal Ultrasound Grand Challenge (ISBI 2025) - Semi-supervised cervical segmentation.
 
@@ -37,6 +38,10 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 - **Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**  
   **Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu  
   _IEEE International Symposium on Biomedical Imaging (ISBI 2025)_
+
+- **HDC: Hierarchical Distillation for Multi-level Noisy Consistency in Semi-Supervised Fetal Ultrasound Segmentation**  
+  Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, Tien-Huy Nguyen, Minh Huu Nhat Le, Quan Nguyen, Hien D. Nguyen  
+  _IEEE/CVF CVPR Workshop 2025_
 
 - **Learning Disentangled Stain and Structural Representations for Semi-Supervised Histopathology Segmentation**  
   **Ha-Hieu Pham**\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy-Hieu Pham  
