@@ -93,8 +93,6 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
   - Developed breast cancer prediction model using mammogram images (collaboration with Thong Nhat Hospital)
   - Exploring multimodal approaches in healthcare AI applications
 
-# 🛠️ Technical Skills
-- **Programming Languages**: Python, C++, C, JavaScript, SQL
-- **Machine Learning Frameworks**: PyTorch, TensorFlow, Scikit-learn
-- **Web Development**: ReactJS
-- **Tools**: Git, LaTeX, Conda, Jupyter, Linux
+
+# 📋 Academic Service
+- **Reviewer**: ISBI 
