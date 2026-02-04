@@ -33,24 +33,26 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 - *2025.01*: &nbsp;🏆 Won 2nd Place at Fetal Ultrasound Grand Challenge (ISBI 2025) - Semi-supervised cervical segmentation.
 
 # 📝 Selected Publications 
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-</div>
-</div>
-**Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**
 
-**Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu
-*IEEE International Symposium on Biomedical Imaging - ISBI 2025*
+- **Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**  
+  **Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu  
+  _IEEE International Symposium on Biomedical Imaging (ISBI 2025)_
 
+- **Learning Disentangled Stain and Structural Representations for Semi-Supervised Histopathology Segmentation**  
+  **Ha-Hieu Pham**\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy-Hieu Pham  
+  _MICCAI Workshop on Computational Pathology (COMPAYL 2025)_
 
-- **Learning Disentangled Stain and Structural Representations for Semi-Supervised Histopathology Segmentation**, **Ha-Hieu Pham**\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy Hieu Pham. *MICCAI Workshop on Computational Pathology (COMPAYL 2025)*
+- **Graph-Theoretic Consistency for Robust and Topology-Aware Semi-Supervised Histopathology Segmentation (Student Abstract)**  
+  **Ha-Hieu Pham**, Minh Le, Han Huynh, Nguyen Quoc Khanh Le, Huy-Hieu Pham  
+  _AAAI-26 Student Abstract and Poster Program (Oral)_
 
-- **Graph-Theoretic Consistency for Robust and Topology-Aware Semi-Supervised Histopathology Segmentation (Student Abstract)**, **Ha-Hieu Pham**, Minh Le, Han Huynh, Nguyen Quoc Khanh Le, Huy-Hieu Pham. *AAAI-26 Student Abstract and Poster Program (Oral)*
+- **Tumor Genomic and Transcriptomic Analysis Integrated With Liquid Biopsy ctDNA Monitoring: Analytical Validation and Clinical Insights**  
+  Nam HB Tran, Thien-Phuc Hoang Nguyen, Van-Anh Nguyen Hoang, Tien Anh Nguyen, Minh-Duc Nguyen, **Ha-Hieu Pham**, et al.  
+  _Cancer Medicine_
 
-- **Tumor Genomic and Transcriptomic Analysis Integrated With Liquid Biopsy ctDNA Monitoring: Analytical Validation and Clinical Insights**, Nam HB Tran, Thien-Phuc Hoang Nguyen, Van-Anh Nguyen Hoang, Tien Anh Nguyen, Minh-Duc Nguyen, **Ha-Hieu Pham**, et al. *Cancer Medicine*
-
-- **FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**, Jieyun Bai, Yitong Tang, Zihao Zhou, et al., **Ha-Hieu Pham**, Thanh-Huy Nguyen, Min Xu, et al. *IEEE Transactions on Medical Imaging (conditionally accepted)*
+- **FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**  
+  Jieyun Bai, Yitong Tang, Zihao Zhou, et al., **Ha-Hieu Pham**, Thanh-Huy Nguyen, Min Xu, et al.  
+  _IEEE Transactions on Medical Imaging (conditionally accepted)_
 
 # 🎖 Honors and Awards
 - *2026.02* **Travel Grant & Student Volunteer Scholarship** for AAAI 2026 Conference in Singapore
