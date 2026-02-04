@@ -55,9 +55,9 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
   _IEEE Transactions on Medical Imaging (conditionally accepted)_
 
 # 🎖 Honors and Awards
-- *2026.02* **Travel Grant & Student Volunteer Scholarship** for AAAI 2026 Conference in Singapore
-- *2025.05* **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
-- *2025.04* **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation 
+- **Travel Grant & Student Volunteer Scholarship** for AAAI 2026 Conference in Singapore
+- **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation 
+- **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
 
 # 📖 Education
 - *2022.09 - 2026.09 (Expected)*, **Bachelor of Science in Computer Science**, University of Science, Vietnam National University Ho Chi Minh City (VNUHCM)
