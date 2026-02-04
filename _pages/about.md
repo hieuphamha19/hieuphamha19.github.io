@@ -59,12 +59,6 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
   Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, Tien-Huy Nguyen, Minh Huu Nhat Le, Quan Nguyen, Hien D. Nguyen  
   _IEEE/CVF CVPR Workshop 2025_
 
-
-
-
-
-
-
 # 🎖 Honors and Awards
 - **Travel Grant & Student Volunteer Scholarship** for AAAI 2026 Conference in Singapore
 - **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation 
