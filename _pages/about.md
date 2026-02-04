@@ -35,29 +35,35 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 # 📝 Selected Publications 
 
-- **Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**  
-  **Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu  
-  _IEEE International Symposium on Biomedical Imaging (ISBI 2025)_
-
-- **HDC: Hierarchical Distillation for Multi-level Noisy Consistency in Semi-Supervised Fetal Ultrasound Segmentation**  
-  Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, Tien-Huy Nguyen, Minh Huu Nhat Le, Quan Nguyen, Hien D. Nguyen  
-  _IEEE/CVF CVPR Workshop 2025_
-
-- **Learning Disentangled Stain and Structural Representations for Semi-Supervised Histopathology Segmentation**  
-  **Ha-Hieu Pham**\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy-Hieu Pham  
-  _MICCAI Workshop on Computational Pathology (COMPAYL 2025)_
+- **FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**  
+  Jieyun Bai, Yitong Tang, Zihao Zhou, et al., **Ha-Hieu Pham**, Thanh-Huy Nguyen, Min Xu, et al.  
+  _IEEE Transactions on Medical Imaging (conditionally accepted)_
 
 - **Graph-Theoretic Consistency for Robust and Topology-Aware Semi-Supervised Histopathology Segmentation (Student Abstract)**  
   **Ha-Hieu Pham**, Minh Le, Han Huynh, Nguyen Quoc Khanh Le, Huy-Hieu Pham  
   _AAAI-26 Student Abstract and Poster Program (Oral)_
 
+- **Learning Disentangled Stain and Structural Representations for Semi-Supervised Histopathology Segmentation**  
+  **Ha-Hieu Pham**\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy-Hieu Pham  
+  _MICCAI Workshop on Computational Pathology (COMPAYL 2025)_
+
+- **Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**  
+  **Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu  
+  _IEEE International Symposium on Biomedical Imaging (ISBI 2025)_
+
 - **Tumor Genomic and Transcriptomic Analysis Integrated With Liquid Biopsy ctDNA Monitoring: Analytical Validation and Clinical Insights**  
   Nam HB Tran, Thien-Phuc Hoang Nguyen, Van-Anh Nguyen Hoang, Tien Anh Nguyen, Minh-Duc Nguyen, **Ha-Hieu Pham**, et al.  
   _Cancer Medicine_
 
-- **FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**  
-  Jieyun Bai, Yitong Tang, Zihao Zhou, et al., **Ha-Hieu Pham**, Thanh-Huy Nguyen, Min Xu, et al.  
-  _IEEE Transactions on Medical Imaging (conditionally accepted)_
+- **HDC: Hierarchical Distillation for Multi-level Noisy Consistency in Semi-Supervised Fetal Ultrasound Segmentation**  
+  Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, Tien-Huy Nguyen, Minh Huu Nhat Le, Quan Nguyen, Hien D. Nguyen  
+  _IEEE/CVF CVPR Workshop 2025_
+
+
+
+
+
+
 
 # 🎖 Honors and Awards
 - **Travel Grant & Student Volunteer Scholarship** for AAAI 2026 Conference in Singapore
