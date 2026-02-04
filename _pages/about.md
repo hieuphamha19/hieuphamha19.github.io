@@ -21,27 +21,27 @@ I am a final-year undergraduate student majoring in Computer Science at the Univ
 
 My research explores semi-supervised and self-supervised learning techniques to address the challenges of limited labeled data in clinical settings. I aim to build robust and scalable models that can support early diagnosis, disease classification, and treatment planning. Currently, I am also exploring report generation from medical data and images to enhance clinical decision support and automate diagnostic workflows.
 
-My research interests include **Semi-Supervised Semantic Segmentation**, **Medical Image Analysis**, and **Bioinformatics**. You can find my publications on <a href='https://scholar.google.com/citations?hl=en&user=llj5SLIAAAAJ'>Google Scholar</a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&user=llj5SLIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include **Semi-Supervised Semantic Segmentation**, **Medical Image Analysis**, and **Bioinformatics**.
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Awarded Travel Grant and Student Volunteer Scholarship for AAAI 2026 Conference in Singapore!
-- *2025.05*: &nbsp;🏆 Won 2nd Place at Fetal Ultrasound Grand Challenge (ISBI 2025) - Semi-supervised cervical segmentation.
-- *2025.04*: &nbsp;🏆 Achieved 5th Place at MICCAI STSR Challenge 2025 - CBCT teeth and root pulp canal segmentation.
-- *2025.02*: &nbsp;📝 Paper accepted at IEEE ISBI 2025 (Oral presentation) - "Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation".
-- *2025.01*: &nbsp;📝 Paper accepted at MICCAI Workshop on Computational Pathology (COMPAYL 2025).
-- *2025.01*: &nbsp;📝 Student Abstract accepted at AAAI-26 (Oral presentation). 
+- *2025.11*: &nbsp;🎉🎉 Awarded Travel Grant and Student Volunteer Scholarship for AAAI 2026 Conference in Singapore!
+- *2025.10*: &nbsp;📝 Student Abstract accepted at AAAI-26 (Oral presentation). 
+- *2025.07*: &nbsp;📝 Paper accepted at MICCAI Workshop on Computational Pathology (COMPAYL 2025).
+- *2025.08*: &nbsp;🏆 Achieved 5th Place at MICCAI STSR Challenge 2025 - CBCT teeth and root pulp canal segmentation.
+- *2025.02*: &nbsp;📝 Paper accepted at IEEE ISBI 2025 - "Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation".
+- *2025.01*: &nbsp;🏆 Won 2nd Place at Fetal Ultrasound Grand Challenge (ISBI 2025) - Semi-supervised cervical segmentation.
 
 # 📝 Selected Publications 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 **Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**
 
 **Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu
 
-*IEEE International Symposium on Biomedical Imaging - ISBI 2025 (Oral)*
+*IEEE International Symposium on Biomedical Imaging - ISBI 2025*
 
 - Developed a semi-supervised framework for fetal ultrasound segmentation addressing empirical distribution gap challenges.
 </div>
