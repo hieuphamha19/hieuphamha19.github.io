@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ha-Hieu Pham"
-description              : "Research Assistant at VinUni-Illinois Smart Health Center (VISHC), Final-year Computer Science student at VNUHCM"
+description              : "Research Assistant at VinUni-Illinois Smart Health Center (VISHC), Final-year Computer Science student at HCMUS"
 repository               : "hieuphamha19/hieuphamha19.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ha-Hieu Pham"
   avatar           : "images/hahieu.jpg"
-  bio              : "CS Student @ VNUHCM"
+  bio              : "CS Undergrad @ HCMUS | Research Assistant @ VISHC"
   location         : "Hanoi, Vietnam"
   employer         :
   pubmed           : 
