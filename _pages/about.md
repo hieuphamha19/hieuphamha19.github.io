@@ -25,13 +25,13 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Awarded Travel Grant and Student Volunteer Scholarship for AAAI 2026 Conference in Singapore!
+- *2025.11*: &nbsp;🎉 Awarded Travel Grant and Student Volunteer Scholarship for AAAI 2026 Conference in Singapore!
 - *2025.10*: &nbsp;📝 Student Abstract accepted at AAAI-26 Student Abstract and Poster Program (Oral presentation). 
-- *2025.08*: &nbsp;🏆 Achieved 5th Place at MICCAI STSR Challenge 2025 - CBCT teeth and root pulp canal segmentation.
+- *2025.08*: &nbsp;🏆 Achieved 5th Place at MICCAI STSR Challenge 2025.
 - *2025.07*: &nbsp;📝 Paper accepted at MICCAI Workshop on Computational Pathology (COMPAYL 2025).
-- *2025.04*: &nbsp;📝 Paper accepted at IEEE/CVF CVPR Workshop 2025
-- *2025.02*: &nbsp;📝 Paper accepted at IEEE ISBI 2025 - "Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation".
-- *2025.01*: &nbsp;🏆 Won 2nd Place at Fetal Ultrasound Grand Challenge (ISBI 2025) - Semi-supervised cervical segmentation.
+- *2025.04*: &nbsp;📝 Paper accepted at IEEE/CVF CVPR Workshop 2025.
+- *2025.02*: &nbsp;📝 Paper accepted at IEEE ISBI 2025.
+- *2025.01*: &nbsp;🏆 Won 2nd Place at Fetal Ultrasound Grand Challenge (ISBI 2025).
 
 # 📝 Selected Publications 
 
