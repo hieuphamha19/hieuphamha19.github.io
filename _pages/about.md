@@ -36,16 +36,13 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-
+</div>
+</div>
 **Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**
 
 **Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu
-
 *IEEE International Symposium on Biomedical Imaging - ISBI 2025*
 
-- Developed a semi-supervised framework for fetal ultrasound segmentation addressing empirical distribution gap challenges.
-</div>
-</div>
 
 - **Learning Disentangled Stain and Structural Representations for Semi-Supervised Histopathology Segmentation**, **Ha-Hieu Pham**\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy Hieu Pham. *MICCAI Workshop on Computational Pathology (COMPAYL 2025)*
 
