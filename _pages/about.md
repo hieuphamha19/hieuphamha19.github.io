@@ -17,42 +17,80 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a final-year undergraduate student majoring in Computer Science at the University of Science, VNUHCM. My academic interests lie at the intersection of artificial intelligence (AI) and medical image analysis. I am particularly interested in developing AI methodologies for healthcare applications, with a focus on medical imaging, cancer genomics, and precision medicine.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research explores semi-supervised and self-supervised learning techniques to address the challenges of limited labeled data in clinical settings. I aim to build robust and scalable models that can support early diagnosis, disease classification, and treatment planning. Currently, I am also exploring report generation from medical data and images to enhance clinical decision support and automate diagnostic workflows.
+
+My research interests include **Semi-Supervised Semantic Segmentation**, **Medical Image Analysis**, and **Bioinformatics**. You can find my publications on <a href='https://scholar.google.com/citations?hl=en&user=llj5SLIAAAAJ'>Google Scholar</a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&user=llj5SLIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Awarded Travel Grant and Student Volunteer Scholarship for AAAI 2026 Conference in Singapore!
+- *2025.05*: &nbsp;🏆 Won 2nd Place at Fetal Ultrasound Grand Challenge (ISBI 2025) - Semi-supervised cervical segmentation.
+- *2025.04*: &nbsp;🏆 Achieved 5th Place at MICCAI STSR Challenge 2025 - CBCT teeth and root pulp canal segmentation.
+- *2025.02*: &nbsp;📝 Paper accepted at IEEE ISBI 2025 (Oral presentation) - "Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation".
+- *2025.01*: &nbsp;📝 Paper accepted at MICCAI Workshop on Computational Pathology (COMPAYL 2025).
+- *2025.01*: &nbsp;📝 Student Abstract accepted at AAAI-26 (Oral presentation). 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*IEEE International Symposium on Biomedical Imaging - ISBI 2025 (Oral)*
+
+- Developed a semi-supervised framework for fetal ultrasound segmentation addressing empirical distribution gap challenges.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Learning Disentangled Stain and Structural Representations for Semi-Supervised Histopathology Segmentation**, **Ha-Hieu Pham**\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy Hieu Pham. *MICCAI Workshop on Computational Pathology (COMPAYL 2025)*
+
+- **Graph-Theoretic Consistency for Robust and Topology-Aware Semi-Supervised Histopathology Segmentation (Student Abstract)**, **Ha-Hieu Pham**, Minh Le, Han Huynh, Nguyen Quoc Khanh Le, Huy-Hieu Pham. *AAAI-26 Student Abstract and Poster Program (Oral)*
+
+- **Tumor Genomic and Transcriptomic Analysis Integrated With Liquid Biopsy ctDNA Monitoring: Analytical Validation and Clinical Insights**, Nam HB Tran, Thien-Phuc Hoang Nguyen, Van-Anh Nguyen Hoang, Tien Anh Nguyen, Minh-Duc Nguyen, **Ha-Hieu Pham**, et al. *Cancer Medicine*
+
+- **FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**, Jieyun Bai, Yitong Tang, Zihao Zhou, et al., **Ha-Hieu Pham**, Thanh-Huy Nguyen, Min Xu, et al. *IEEE Transactions on Medical Imaging (conditionally accepted)*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02* **Travel Grant & Student Volunteer Scholarship** for AAAI 2026 Conference in Singapore
+- *2025.05* **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
+- *2025.04* **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2022.09 - 2026.09 (Expected)*, **Bachelor of Science in Computer Science**, University of Science, Vietnam National University Ho Chi Minh City (VNUHCM)
+  - CGPA: 3.83/4.0 (126/138 credits completed)
+  - Relevant courses: Data Structure & Algorithm, Fundamentals of Artificial Intelligence, Machine Learning, Data Mining and Application, Natural Language Processing 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💼 Research Experience
+
+- *2025.07 - Present*, **Research Assistant**, CVMAIL Lab, VinUniversity, Hanoi, Vietnam
+  - Co-supervised by Dr. Huy-Hieu Pham (VinUni) & Dr. Trung-Nghia Le (HCMUS)
+  - Developing semi-supervised semantic segmentation framework for histopathology images
+  - Tackling challenges of limited labeled data and data imbalance in medical imaging
+
+- *2024.06 - Present*, **Research Assistant**, AIMA Lab
+  - Supervised by M.Sc. Thanh Huy Nguyen (CMU)
+  - Researching semi-supervised and self-supervised learning methods for medical imaging
+  - Analyzing gene expression matrix data for PANCAN (Pan-Cancer) analysis
+  - Developing mediastinal tumor detection on chest MRI images (collaboration with University of Medicine and Pharmacy, HCMC)
+
+- *2024.08 - 2025.03*, **Undergraduate Research Assistant**, AISIA Lab, Ho Chi Minh City
+  - Supervised by Assoc. Prof. Binh Nguyen (HCMUS)
+  - Developed breast cancer prediction model using mammogram images (collaboration with Thong Nhat Hospital)
+  - Exploring multimodal approaches in healthcare AI applications
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.04 - 2025.06*, **Bioinformatics Intern**, Gene Solutions, Ho Chi Minh City
+  - Developed predictive modeling based on fragmentomics extracted using NIPT to predict preeclampsia, preterm birth, and diabetes
+  - Applied graph neural networks to enhance fragmentomics-based modeling
+  - Identified tissue-of-origin of Carcinoma of Unknown Primary (CUP) using RNA-seq-based transcriptomic profiling
+
+# 🛠️ Technical Skills
+- **Programming Languages**: Python, C++, C, JavaScript, SQL
+- **Machine Learning Frameworks**: PyTorch, TensorFlow, Scikit-learn
+- **Web Development**: ReactJS
+- **Tools**: Git, LaTeX, Conda, Jupyter, Linux
