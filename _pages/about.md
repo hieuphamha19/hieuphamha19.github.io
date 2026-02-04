@@ -65,7 +65,7 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 - **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
 
 # 📖 Education
-- *2022.09 - 2026.09 (Expected)*, **Bachelor of Science in Computer Science**, University of Science, Vietnam National University Ho Chi Minh City (VNUHCM)
+- *2022.09 - 2026.09 (Expected)*, **BSc. in Computer Science**, University of Science, Vietnam National University Ho Chi Minh City (VNUHCM)
   - CGPA: 3.83/4.0 (126/138 credits completed)
   - Relevant courses: Data Structure & Algorithm, Fundamentals of Artificial Intelligence, Machine Learning, Data Mining and Application, Natural Language Processing 
 
