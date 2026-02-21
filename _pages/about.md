@@ -23,15 +23,19 @@ My research explores semi-supervised and self-supervised learning techniques to 
 
 My research interests include **Semi-Supervised Semantic Segmentation**, **Medical Image Analysis**, and **Bioinformatics**.
 
-
 # 🔥 News
-- *2025.11*: &nbsp;🎉 Awarded Travel Grant and Student Volunteer Scholarship for AAAI 2026 Conference in Singapore!
-- *2025.10*: &nbsp;📝 Student Abstract accepted at AAAI-26 Student Abstract and Poster Program (Oral presentation). 
-- *2025.08*: &nbsp;🏆 Achieved 5th Place at MICCAI STSR Challenge 2025.
-- *2025.07*: &nbsp;📝 Paper accepted at MICCAI Workshop on Computational Pathology (COMPAYL 2025).
-- *2025.04*: &nbsp;📝 Paper accepted at IEEE/CVF CVPR Workshop 2025.
-- *2025.02*: &nbsp;📝 Paper accepted at IEEE ISBI 2025.
-- *2025.01*: &nbsp;🏆 Won 2nd Place at Fetal Ultrasound Grand Challenge (ISBI 2025).
+
+- *2026.02*: 📝 **Paper accepted** – IEEE Transactions on Medical Imaging (FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation)
+- *2026.02*: 🎉 **1st Place – CXR-LT 2026 (ISBI 2026)** – Long-tailed multi-label chest X-ray classification
+- *2025.11*: 🎉 **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
+- *2025.10*: 📝 **Student Abstract accepted** – AAAI-26 Student Abstract and Poster Program (Oral presentation)
+- *2025.08*: 🏆 **5th Place** – MICCAI STSR Challenge 2025
+- *2025.07*: 📝 **Paper accepted** – MICCAI Workshop on Computational Pathology (COMPAYL 2025)
+- *2025.04*: 📝 **Paper accepted** – IEEE/CVF CVPR Workshop 2025
+- *2025.02*: 📝 **Paper accepted** – IEEE ISBI 2025
+- *2025.01*: 🏆 **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025)
+
+
 
 # 📝 Selected Publications 
 
@@ -59,10 +63,13 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
   Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, Tien-Huy Nguyen, Minh Huu Nhat Le, Quan Nguyen, Hien D. Nguyen  
   _IEEE/CVF CVPR Workshop 2025_
 
-# 🎖 Honors and Awards
-- **Travel Grant & Student Volunteer Scholarship** for AAAI 2026 Conference in Singapore
-- **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation 
-- **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
+  # 🎖 Honors and Awards
+
+  - **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
+  - **1st Place** – CXR-LT 2026 (ISBI 2026): Long-tailed multi-label chest X-ray classification
+  - **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation
+  - **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
+
 
 # 📖 Education
 - *2022.09 - 2026.09 (Expected)*, **BSc. in Computer Science**, University of Science, Vietnam National University Ho Chi Minh City (VNUHCM)
