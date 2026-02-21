@@ -25,7 +25,7 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 # 🔥 News
 
-- *2026.02*: 📝 **Paper accepted** – IEEE Transactions on Medical Imaging (FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation)
+- *2026.02*: 📝 **Paper accepted** – IEEE Transactions on Medical Imaging 
 - *2026.02*: 🎉 **1st Place – CXR-LT 2026 (ISBI 2026)** – Long-tailed multi-label chest X-ray classification
 - *2025.11*: 🎉 **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
 - *2025.10*: 📝 **Student Abstract accepted** – AAAI-26 Student Abstract and Poster Program (Oral presentation)
@@ -41,7 +41,7 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 - **FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**  
   Jieyun Bai, Yitong Tang, Zihao Zhou, et al., **Ha-Hieu Pham**, Thanh-Huy Nguyen, Min Xu, et al.  
-  _IEEE Transactions on Medical Imaging (conditionally accepted)_
+  _IEEE Transactions on Medical Imaging_
 
 - **Graph-Theoretic Consistency for Robust and Topology-Aware Semi-Supervised Histopathology Segmentation (Student Abstract)**  
   **Ha-Hieu Pham**, Minh Le, Han Huynh, Nguyen Quoc Khanh Le, Huy-Hieu Pham  
@@ -60,7 +60,7 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
   _Cancer Medicine_
 
 - **HDC: Hierarchical Distillation for Multi-level Noisy Consistency in Semi-Supervised Fetal Ultrasound Segmentation**  
-  Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, Tien-Huy Nguyen, Minh Huu Nhat Le, Quan Nguyen, Hien D. Nguyen  
+  Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, et al.
   _IEEE/CVF CVPR Workshop 2025_
 
   # 🎖 Honors and Awards
