@@ -63,12 +63,11 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
   Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, et al.
   _IEEE/CVF CVPR Workshop 2025_
 
-  # 🎖 Honors and Awards
-
-  - **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
-  - **1st Place** – CXR-LT 2026 (ISBI 2026): Long-tailed multi-label chest X-ray classification
-  - **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation
-  - **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
+# 🎖 Honors and Awards
+- **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
+- **1st Place** – CXR-LT 2026 (ISBI 2026): Long-tailed multi-label chest X-ray classification
+- **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation
+- **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
 
 
 # 📖 Education
