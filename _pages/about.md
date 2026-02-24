@@ -40,28 +40,29 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 # 📝 Selected Publications 
 
 - **FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**  
-  Jieyun Bai, Yitong Tang, Zihao Zhou, et al., **Ha-Hieu Pham**, Thanh-Huy Nguyen, Min Xu, et al.  
-  _IEEE Transactions on Medical Imaging_
+  Jieyun Bai, Yitong Tang, Zihao Zhou, et al., *Ha-Hieu Pham*, Thanh-Huy Nguyen, Min Xu, et al.  
+  *IEEE Transactions on Medical Imaging* [PDF](https://doi.org/10.1109/TMI.2026.3666364)
 
 - **Graph-Theoretic Consistency for Robust and Topology-Aware Semi-Supervised Histopathology Segmentation (Student Abstract)**  
-  **Ha-Hieu Pham**, Minh Le, Han Huynh, Nguyen Quoc Khanh Le, Huy-Hieu Pham  
-  _AAAI-26 Student Abstract and Poster Program (Oral)_
+  *Ha-Hieu Pham*, Minh Le, Han Huynh, Nguyen Quoc Khanh Le, Huy-Hieu Pham  
+  *AAAI-26 Student Abstract and Poster Program (Oral)*
 
 - **Learning Disentangled Stain and Structural Representations for Semi-Supervised Histopathology Segmentation**  
-  **Ha-Hieu Pham**\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy-Hieu Pham  
-  _MICCAI Workshop on Computational Pathology (COMPAYL 2025)_
+  *Ha-Hieu Pham*\*, Nguyen Lan Vi Vu\*, Thanh-Huy Nguyen, Ulas Bagci, Min Xu, Trung-Nghia Le, Huy-Hieu Pham  
+  *MICCAI Workshop on Computational Pathology (COMPAYL 2025)* [PDF](https://openreview.net/forum?id=slpR7K3OzQ&noteId=qDJeZr8Tlt)
 
 - **Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation**  
-  **Ha-Hieu Pham**, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu  
-  _IEEE International Symposium on Biomedical Imaging (ISBI 2025)_
+  *Ha-Hieu Pham*, Le Tran Quoc Khanh, Hoang-Thien Nguyen, Nguyen Lan Vi Vu, Quang-Vinh Dinh, Thanh-Huy Nguyen, Xingjian Li, Min Xu  
+  *IEEE International Symposium on Biomedical Imaging (ISBI 2025)* [PDF](https://ieeexplore.ieee.org/document/10980925)
 
 - **Tumor Genomic and Transcriptomic Analysis Integrated With Liquid Biopsy ctDNA Monitoring: Analytical Validation and Clinical Insights**  
-  Nam HB Tran, Thien-Phuc Hoang Nguyen, Van-Anh Nguyen Hoang, Tien Anh Nguyen, Minh-Duc Nguyen, **Ha-Hieu Pham**, et al.  
-  _Cancer Medicine_
+  Nam HB Tran, Thien-Phuc Hoang Nguyen, Van-Anh Nguyen Hoang, Tien Anh Nguyen, Minh-Duc Nguyen, *Ha-Hieu Pham*, et al.  
+  *Cancer Medicine*
 
 - **HDC: Hierarchical Distillation for Multi-level Noisy Consistency in Semi-Supervised Fetal Ultrasound Segmentation**  
-  Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, **Ha-Hieu Pham**, Xuan-Loc Huynh, et al.
-  _IEEE/CVF CVPR Workshop 2025_
+  Tran Quoc Khanh Le\*, Nguyen Lan Vi Vu\*, *Ha-Hieu Pham*, Xuan-Loc Huynh, et al.  
+  *IEEE/CVF CVPR Workshop 2025* [PDF](https://openaccess.thecvf.com/content/CVPR2025W/Precognition/papers/Le_HDC_Hierarchical_Distillation_for_Multi-level_Noisy_Consistency_in_Semi-Supervised_Fetal_CVPRW_2025_paper.pdf)
+
 
 # 🎖 Honors and Awards
 - **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
