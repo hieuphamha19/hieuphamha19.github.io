@@ -25,15 +25,16 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 # 🔥 News
 
-- *2026.02*: 📝 **Paper accepted** – IEEE Transactions on Medical Imaging 
-- *2026.02*: 🎉 **1st Place – CXR-LT 2026 (ISBI 2026)** – Long-tailed multi-label chest X-ray classification
-- *2025.11*: 🎉 **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
-- *2025.10*: 📝 **Student Abstract accepted** – AAAI-26 Student Abstract and Poster Program (Oral presentation)
-- *2025.08*: 🏆 **5th Place** – MICCAI STSR Challenge 2025
-- *2025.07*: 📝 **Paper accepted** – MICCAI Workshop on Computational Pathology (COMPAYL 2025)
-- *2025.04*: 📝 **Paper accepted** – IEEE/CVF CVPR Workshop 2025
-- *2025.02*: 📝 **Paper accepted** – IEEE ISBI 2025
-- *2025.01*: 🏆 **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025)
+- 📝 2026.02: **Paper accepted** – IEEE Transactions on Medical Imaging 
+- 🥇 2026.02: **1st Place – CXR-LT 2026 (ISBI 2026)** – Long-tailed multi-label chest X-ray classification
+- 🏅 2026.02: **6th Place – WBCBench 2026 (ISBI 2026)** – White Blood Cell Classification
+- 🌏 2025.11: **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
+- 📝 2025.10: **Student Abstract accepted** – AAAI-26 Student Abstract and Poster Program (Oral presentation)
+- 🏆 2025.08: **5th Place** – MICCAI STSR Challenge 2025
+- 📝 2025.07: **Paper accepted** – MICCAI Workshop on Computational Pathology (COMPAYL 2025)
+- 📝 2025.04: **Paper accepted** – IEEE/CVF CVPR Workshop 2025
+- 📝 2025.02: **Paper accepted** – IEEE ISBI 2025
+- 🥈 2025.01: **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025)
 
 
 
@@ -102,4 +103,6 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 
 # 📋 Academic Service
-- **Reviewer**: ISBI 
+
+- **Conference Reviewer**: IEEE International Symposium on Biomedical Imaging (ISBI)
+- **Journal Reviewer**: Medical Image Analysis (MedIA)
