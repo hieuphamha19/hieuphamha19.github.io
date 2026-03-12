@@ -25,6 +25,7 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 # 🔥 News
 
+- 📝 2026.03: **Paper accepted** – IEEE ISBI 2026
 - 📝 2026.02: **Paper accepted** – IEEE Transactions on Medical Imaging 
 - 🥇 2026.02: **1st Place – CXR-LT 2026 (ISBI 2026)** – Long-tailed multi-label chest X-ray classification
 - 🏅 2026.02: **6th Place – WBCBench 2026 (ISBI 2026)** – White Blood Cell Classification
@@ -43,6 +44,10 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 - **FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**  
   Jieyun Bai, Yitong Tang, Zihao Zhou, et al., *Ha-Hieu Pham*, Thanh-Huy Nguyen, Min Xu, et al.  
   *IEEE Transactions on Medical Imaging* [[PDF](https://doi.org/10.1109/TMI.2026.3666364)]
+
+- **Handling Supervision Scarcity in Chest X-ray Classification: Long-Tailed and Zero-Shot Learning**  
+  *Ha-Hieu Pham*, Hai-Dang Nguyen, Thanh-Huy Nguyen, Min Xu, Ulas Bagci, Trung-Nghia Le, Huy Hieu Pham  
+  *IEEE International Symposium on Biomedical Imaging (ISBI 2026)*
 
 - **Graph-Theoretic Consistency for Robust and Topology-Aware Semi-Supervised Histopathology Segmentation (Student Abstract)**  
   *Ha-Hieu Pham*, Minh Le, Han Huynh, Nguyen Quoc Khanh Le, Huy-Hieu Pham  
