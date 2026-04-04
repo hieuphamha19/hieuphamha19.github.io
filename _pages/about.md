@@ -25,7 +25,8 @@ My research interests include **Semi-Supervised Semantic Segmentation**, **Medic
 
 # 🔥 News
 
-- 📝 2026.03: **Paper accepted** – IEEE ISBI 2026
+- 📝 2026.03: **Papers Accepted** – Two papers accepted at IEEE ISBI 2026.
+- 📰 2026.03: **Featured by VinUni** – VinUni-Illinois Smart Health Center members won 1st place at CXR-LT 2026 Challenge [[Link](https://vinuni.edu.vn/vinuni-illinois-smart-health-center-members-win-first-place-at-cxr-lt-2026-challenge)]
 - 📝 2026.02: **Paper accepted** – IEEE Transactions on Medical Imaging 
 - 🥇 2026.02: **1st Place – CXR-LT 2026 (ISBI 2026)** – Long-tailed multi-label chest X-ray classification
 - 🏅 2026.02: **6th Place – WBCBench 2026 (ISBI 2026)** – White Blood Cell Classification
