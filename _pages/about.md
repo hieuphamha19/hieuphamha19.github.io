@@ -21,7 +21,7 @@ I am a final-year undergraduate student majoring in Computer Science at the Univ
 
 My research explores semi-supervised and self-supervised learning techniques to address the challenges of limited labeled data in clinical settings. I aim to build robust and scalable models that can support early diagnosis, disease classification, and treatment planning. Currently, I am also exploring report generation from medical data and images to enhance clinical decision support and automate diagnostic workflows.
 
-My research interests include **Semi-Supervised Semantic Segmentation**, **Medical Image Analysis**, and **Bioinformatics**.
+My research interests include **Medical Image Analysis** and **Bioinformatics**, particularly in developing AI-driven solutions for healthcare.
 
 # 🔥 News
 
