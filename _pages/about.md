@@ -29,7 +29,7 @@ My research interests include **Medical Image Analysis** and **Bioinformatics**,
 - 📰 2026.03: **Featured by VinUni** – VinUni-Illinois Smart Health Center members won 1st place at CXR-LT 2026 Challenge [[Link](https://vinuni.edu.vn/vinuni-illinois-smart-health-center-members-win-first-place-at-cxr-lt-2026-challenge)]
 - 📝 2026.02: **Paper accepted** – IEEE Transactions on Medical Imaging 
 - 🥇 2026.02: **1st Place – CXR-LT 2026 (ISBI 2026)** – Long-tailed multi-label chest X-ray classification
-- 🏅 2026.02: **6th Place – WBCBench 2026 (ISBI 2026)** – White Blood Cell Classification
+- 🏅 2026.02: **3th Place – WBCBench 2026 (ISBI 2026)** – White Blood Cell Classification
 - 🌏 2025.11: **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
 - 📝 2025.10: **Student Abstract accepted** – AAAI-26 Student Abstract and Poster Program (Oral presentation)
 - 🏆 2025.08: **5th Place** – MICCAI STSR Challenge 2025
@@ -74,6 +74,7 @@ My research interests include **Medical Image Analysis** and **Bioinformatics**,
 # 🎖 Honors and Awards
 - **Travel Grant & Student Volunteer Scholarship** – AAAI 2026 Conference in Singapore
 - **1st Place** – CXR-LT 2026 (ISBI 2026): Long-tailed multi-label chest X-ray classification
+- **3th Place** – WBCBench 2026 (ISBI 2026): White Blood Cell Classification
 - **5th Place** – MICCAI STSR Challenge 2025: CBCT teeth and root pulp canal segmentation
 - **2nd Place** – Fetal Ultrasound Grand Challenge (ISBI 2025): Semi-supervised cervical segmentation
 
