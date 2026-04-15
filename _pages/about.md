@@ -23,7 +23,9 @@ My research explores semi-supervised and self-supervised learning techniques to 
 
 My research interests include **Medical Image Analysis** and **Bioinformatics**, particularly in developing AI-driven solutions for healthcare.
 
-🔍 **I am actively seeking PhD opportunities in Medical Image Analysis for Fall 2027. Feel free to reach out if you think we could work together!**
+<div style="background:#fff8e1;border-left:4px solid #f4a92a;padding:0.75em 1em;border-radius:4px;margin:1em 0;">
+  🔍 <strong>I am actively seeking PhD opportunities in Medical Image Analysis for Fall 2027.</strong> Feel free to reach out if you think we could work together!
+</div>
 
 # 🔥 News
 
