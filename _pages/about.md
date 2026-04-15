@@ -120,6 +120,6 @@ My research interests include **Medical Image Analysis** and **Bioinformatics**,
 
 <br>
 
-<div style="text-align:center;margin-top:2em;">
+<div style="text-align:center;margin-top:2em;max-width:300px;margin-left:auto;margin-right:auto;width:100%;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=hjutMviEPULoCWuclzZyzfeuPJVM6BRRDjhU5r-IQ_k&cl=ffffff&w=a"></script>
 </div>
